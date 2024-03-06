@@ -1,0 +1,23 @@
+print ("Tipos de datos booleanos")
+print (True)
+print (False)
+print (True + True)
+print (True * True)
+print (True * False)
+print (False + False)
+print (False * False)
+
+print("Declarar variables booleanas")
+var_booleana = True
+print(var_booleana)
+print(type(var_booleana))
+
+print ("Operadores de comparación")
+print (10 == 10)
+print (10 != 10)
+print (10 < 10)
+print (10 > 10)
+print (10 <= 10)
+print (10 >= 10)
+print (10 is 10)
+print (10 is not 10)
